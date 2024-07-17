@@ -1,0 +1,11 @@
+.add-bg {
+    background-image: url("../../../assets/images/11.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+  }
+  p {
+    color: rgba(27, 26, 26, 0.7);
+  }
+  

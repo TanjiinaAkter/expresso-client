@@ -1,0 +1,20 @@
+.banner {
+  background-image: url("../../assets/images/banner.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+  /* object-fit: cover; */
+}
+.cards-section {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  background-image: url("../../assets/images/1.png");
+  z-index: 10;
+  top: 6%;
+}

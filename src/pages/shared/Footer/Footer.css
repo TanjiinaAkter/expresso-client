@@ -1,0 +1,14 @@
+.footer-l {
+  background-image: url("../../../assets/images/r.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+.bottom-footer {
+  background-image: url("../../../assets/images/24.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
